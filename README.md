@@ -1,5 +1,5 @@
 # Test-Plan-Test-Case
-Based on the Below Scenarios I Prepared Test Plan And Test Case to test the newly added E-Commerce Page In the Flipkart
+Based on the Below Scenarios I Prepared a Test Plan And Test Case to test the newly added E-Commerce Page On Flipkart
 - there is new e-commerce with the scale of Flipkart 
 - A new product page is created and needs to be launched within 7 days.
 need test plan and go to prod in terms of QA
